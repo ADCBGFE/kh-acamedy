@@ -29,6 +29,6 @@ public class Test01 {
 	
 	// 메인 매서드(함수) : 자바 프로그램에서 프로그램을 실행하기 위한 시작점으로 사용
 	public static void main(String[] srgs) {
-	
+	11
 	}
 }
